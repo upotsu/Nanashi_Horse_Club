@@ -3,6 +3,9 @@
 架空サイト制作チャレンジ第三弾。  
 React + Vite で構築した架空の乗馬クラブサイトです。  
 
+<img width="1203" height="820" alt="image" src="https://github.com/user-attachments/assets/14218142-2d07-4b90-9a2f-9f2329b509e3" />
+
+
 ## リンク
 https://upotsu.github.io/Nanashi_Horse_Club/
 
